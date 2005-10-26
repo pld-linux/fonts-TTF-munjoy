@@ -1,5 +1,6 @@
 %define		_name	munjoyfonts
 Summary:	munjoy fonts
+Summary(pl):	Fonty munjoy
 Name:		fonts-TTF-munjoy
 Version:	0.1
 Release:	1
@@ -17,6 +18,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 munjoy fonts.
+
+%description -l pl
+Fonty munjoy.
 
 %prep
 %setup -q -n %{_name}
