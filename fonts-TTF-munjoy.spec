@@ -1,6 +1,6 @@
 %define		_name	munjoyfonts
 Summary:	munjoy fonts
-Summary(pl.UTF-8):   Fonty munjoy
+Summary(pl.UTF-8):	Fonty munjoy
 Name:		fonts-TTF-munjoy
 Version:	0.1
 Release:	1
